@@ -77,3 +77,9 @@ typings/
 
 #DynamoDB Local files 
 .dynamodb/ 
+fullscreen.vbs
+LICENSE
+run_index.bat
+package-lock.json
+package.json
+README.md
